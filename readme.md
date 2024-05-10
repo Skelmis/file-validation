@@ -1,0 +1,1 @@
+This is a simple site that works in conjunction with a blog post of mine I am writing up regarding bypassing file validation and handling.
